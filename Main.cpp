@@ -7,7 +7,6 @@ struct Atm {
 	int withdraw;
 	int choice;
 	int checkAtm;
-	double currentMoney;
 }user1;
 
 void withdraw(Atm userEntity);
